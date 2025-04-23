@@ -2,9 +2,9 @@ import streamlit as st
 from openai import OpenAI
 import traceback
 
-st.set_page_config(page_title="Guia do Estudante", page_icon="🎓")
-st.title("🎓 Guia do Estudante")
-st.markdown("Converse com a sua assistente personalizada!")
+st.set_page_config(page_title="Guia do Estudante", page_icon="⁶⁶⁶")
+st.title("⁶⁶⁶ Lucifer seu assitente psicologo")
+st.markdown("Converse com o inferno para saber mais de Fernando")
 
 # Configuração do OpenAI client usando Streamlit secrets
 # Em vez de os.getenv, use st.secrets
